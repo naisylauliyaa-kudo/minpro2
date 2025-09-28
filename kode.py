@@ -81,7 +81,7 @@ def login():
 def menu_manager():
     while True:
         try:
-            print("\n=== MENU MANAGER ===")
+            print("\n=== MENU UTAMA MANAGER ===")
             print("1. Tambah Bencana")
             print("2. Update Bencana")
             print("3. Hapus Bencana")
