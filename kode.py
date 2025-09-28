@@ -81,7 +81,7 @@ def login():
 def menu_manager():
     while True:
         try:
-            print("\n=== MENU UTAMA MANAGER ===")
+            print("\n=== MENU UTAMA ===")
             print("1. Tambah Bencana")
             print("2. Update Bencana")
             print("3. Hapus Bencana")
@@ -178,7 +178,7 @@ def lihat_bencana():
 def menu_karyawan():
     while True:
         try:
-            print("\n=== MENU KARYAWAN ===")
+            print("\n=== MENU Pengguna ===")
             print("1. Lihat Nama Bencana")
             print("2. Lihat Deskripsi Bencana")
             print("3. Lihat Tips Bencana")
@@ -237,7 +237,7 @@ def menu_karyawan():
 
 
             elif pilihan == "5":
-                print("Keluar dari sistem Karyawan")
+                print("Keluar dari sistem Pengguna")
                 break
             else:
                 print("Pilihan tidak valid!")
