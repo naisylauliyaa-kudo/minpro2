@@ -74,7 +74,9 @@ Jika admin memilih menu ini, sistem akan langsung keluar dari menu Manager dan p
 
 # Login sebagai user
 
-![fd33b874-637b-48d8-aac9-78fbe8ad88e4](https://github.com/user-attachments/assets/02fd6486-37c4-45ab-97e8-d3c47ed0cfbe)
+![b93a3852-4a44-47cb-ab5b-6809e243ae83](https://github.com/user-attachments/assets/c5b4e89f-c92f-4757-a599-3a8abf36a60d)
+
+
 Jika berhasil login sebagai user, maka menu yang akan ditampilkan adalah:
 
 1. Lihat Nama Bencana
@@ -86,30 +88,35 @@ Untuk masing masing menu akan dijelaskan
 
 # Menu lihat nama bencana
 
-![bf2bca66-a55f-4f32-928e-fb02181157ae](https://github.com/user-attachments/assets/d84de3af-1c90-447b-87e6-56bb583f1dbe)
+![88a20cb0-ca3c-44a3-b27f-3a66618d28e8](https://github.com/user-attachments/assets/4f8a3e6e-a753-4316-a391-12fe0a7ad11d)
+
 Untuk menu pertama, hasilnya akan menampilkan beberapa nama bencana.
 
 # Menu lihat deskripsi bencana
 
-![a28ae14d-0789-4a58-bce3-f24a5c484d19](https://github.com/user-attachments/assets/8d7bef1d-74e5-4f57-900a-f020ba1b1e57)
+![6d8bb55e-a0f6-4289-b262-3ea59236f903](https://github.com/user-attachments/assets/f8257b89-7a32-4b6e-84cf-6ddb8b72268c)
+
 Pada menu kedua, pengguna melakukan dua tahap penginputan:
 Pengguna pertama-tama memilih menu kedua dari daftar menu, kemudian memilih bencana alam yang ingin dilihat deskripsinya.
 
 # Menu lihat tips bencana
 
-![64c631d0-2b07-45af-940e-19bba95b83f3](https://github.com/user-attachments/assets/52ccae45-6ecf-41d8-8842-984eef14b553)
+![a04791c8-0db1-4e21-947a-ed74afd4f872](https://github.com/user-attachments/assets/9335ea77-374e-403a-bac0-c540881f46cb)
+
 Sama dengan menu sebelumnya, pada menu ini pengguna atau user akan melakukan dua tahap input yaitu:
 Pengguna pertama-tama memilih menu ketiga dari daftar menu, kemudian memilih bencana alam yang ingin dilihat tipsnya.
 
 # Menu lihat nomor darurat
 
-![9e0cdcdd-f33d-402b-b57a-297d53abc340](https://github.com/user-attachments/assets/dbb26b77-2aa8-4cff-9e65-10bfe749d07f)
+![2d20e255-8848-412a-aee9-216b85c1f7e5](https://github.com/user-attachments/assets/df2b643f-bcf8-4b76-8c9b-c9a071dbd5a0)
+
 Untuk menu ini pengguna perlu melakukan dua penginputan:
 Pengguna atau user pertama tama memilih menu ketiga dari daftar menu, kemudian memilih bencana yang ingin dilihat nomo rdarurat yang bisa di hubungi
 
 # Menu keluar
 
-![df0388ec-485f-4a7f-9638-3f4d368c812a](https://github.com/user-attachments/assets/adf68a4e-405a-4025-8c6b-16e406b6957b)
+![baa7937f-9041-40dc-980d-db047b2e9fbb](https://github.com/user-attachments/assets/2b1fcbc6-6a54-4044-9693-722f719ae642)
+
 Sama dengan menu keluar pada admin, fungsi dari menu keluar pada user juga akan membuat user secara otomatis akan keluar dari sistem
 
 # Jika melakukan penginputan nomor diluar sistem
