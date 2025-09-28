@@ -81,7 +81,7 @@ def login():
 def menu_manager():
     while True:
         try:
-            print("\n=== MENU UTAMA ===")
+            print("\n=== MENU UTAMA MANAGER ===")
             print("1. Tambah Bencana")
             print("2. Update Bencana")
             print("3. Hapus Bencana")
@@ -175,10 +175,10 @@ def lihat_bencana():
 
 
 # ------------------ MENU KARYAWAN ------------------
-def menu_karyawan():
+def menu_pengguna():
     while True:
         try:
-            print("\n=== MENU Pengguna ===")
+            print("\n=== MENU PENGGUNA ===")
             print("1. Lihat Nama Bencana")
             print("2. Lihat Deskripsi Bencana")
             print("3. Lihat Tips Bencana")
@@ -253,4 +253,4 @@ role = login()
 if role == "bos":
     menu_manager()
 elif role == "pengguna":
-    menu_karyawan()
+    menu_pengguna()
