@@ -119,6 +119,37 @@ Jika pengguna atau admin memasukkan nomor yang tidak ada pada sistem, program ak
 Dalam kondisi ini, pengguna atau admin dapat melakukan penginputan ulang hingga memasukkan nomor yang sesuai dengan daftar menu yang tersedia.
 
 
+# Secara keseluruhan
+Login:
+Pengguna harus login dengan username dan password yang terdaftar. Setiap akun memiliki role tertentu, yaitu bos untuk admin dan pengguna untuk user. Jika login gagal sampai 3 kali, sistem berhenti.
+
+ # Menu Admin (Manager):
+Admin memiliki hak penuh untuk mengelola data bencana, meliputi:
+
+Tambah Bencana: Menambahkan bencana baru dengan nama, deskripsi, tips (bisa banyak, berhenti dengan mengetik “done”), dan nomor darurat.
+
+Update Bencana: Memperbarui data bencana yang sudah ada, termasuk nama, deskripsi, tips (dipisahkan koma), dan nomor darurat.
+
+Hapus Bencana: Menghapus data bencana berdasarkan nomor bencana.
+
+Lihat Semua Bencana: Menampilkan semua bencana beserta deskripsinya.
+
+Keluar: Keluar dari menu admin dan program berhenti.
+Sistem memastikan input valid, jadi jika nomor bencana tidak ada, pengguna bisa mengulang input.
+
+# Menu User (Karyawan):
+User hanya bisa melihat informasi bencana, tanpa hak mengubah data:
+
+Lihat Nama Bencana: Menampilkan daftar nama bencana.
+
+Lihat Deskripsi Bencana: Menampilkan deskripsi bencana tertentu sesuai nomor yang dipilih.
+
+Lihat Tips Bencana: Menampilkan tips penanganan bencana tertentu.
+
+Lihat Nomor Darurat: Menampilkan nomor darurat untuk bencana tertentu.
+
+Keluar: Keluar dari sistem.
+Sistem juga memvalidasi input, jika nomor tidak ada, user dapat mengulang input hingga benar.
 
 
 
