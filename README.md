@@ -140,7 +140,7 @@ Admin memiliki hak penuh untuk mengelola data bencana, meliputi:
 5. Keluar: Keluar dari menu admin dan program berhenti.
 Sistem memastikan input valid, jadi jika nomor bencana tidak ada, pengguna bisa mengulang input.
 
-# Menu User (Karyawan):
+# Menu User (Pengguna):
 User hanya bisa melihat informasi bencana, tanpa hak mengubah data:
 
 1. Lihat Nama Bencana: Menampilkan daftar nama bencana.
