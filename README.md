@@ -1,4 +1,4 @@
-![c963c21b-65ad-4538-91a5-f930edb1f235](https://github.com/user-attachments/assets/2e2a4344-8a1c-4374-9a90-3d97bb641b5f)# Mini Projek 2 DDP
+# Mini Projek 2 DDP
 
 Melanjutkan mini projek sebelumnya, pada Sistem Informasi Panduan Keselamatan Bencana Alam kali ini saya menambahkan admin dan user
 
